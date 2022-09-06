@@ -3,3 +3,11 @@ h1{
     padding: 5;
     border: 1px solid black;
 }
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2rem;
+    text-align: center;
+    background-color: crimson;
+    color:white;
+}
